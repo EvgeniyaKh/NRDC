@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function MainPade() {
+export default function MainPage() {
   return (
-    <div>MainPade</div>
+    <div>MainPage</div>
   )
 }
